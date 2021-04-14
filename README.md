@@ -1,3 +1,4 @@
+# Calculator
 A Calculator application that performs the following:
 -Addition
 -Subtraction
